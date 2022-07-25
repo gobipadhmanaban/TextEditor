@@ -9,12 +9,6 @@ def set_file_path(path):
     global file_path
     file_path = path
 
-
-
-
-
-
-
 class File():
     #clear output
     def clr_output(self):
